@@ -19,4 +19,4 @@ The problem can be generically described as follows: given a key, return its ass
 
 ## Efficiency
 
-The efficiency of insertion and the retieval methods here are **O(log2 n)**.
+The efficiency of insertion and the retieval methods here are **O(log2 n)** due to the structure of dataFile.
